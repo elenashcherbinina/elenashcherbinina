@@ -18,11 +18,11 @@
 **Skills:**
 
 🎯 Html, css  
-🎯 JavaScript 
+🎯 JavaScript   
 🎯 React  
 
 **Conteact me:**
-🔭 [Telegram](https://t.me/el_shcherbinina)
+🔭 [Telegram](https://t.me/el_shcherbinina)  
 🔭 [Linkedin](https://www.linkedin.com/in/el-shcherbinina/)  
 
 
