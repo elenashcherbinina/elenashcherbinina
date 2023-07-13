@@ -17,7 +17,7 @@
 
 **Skills:**
 
-🎯 Html, Css  
+🎯 HTML, CSS
 🎯 JavaScript   
 🎯 React  
 
