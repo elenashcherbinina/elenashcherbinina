@@ -17,9 +17,9 @@
 
 **Skills:**
 
-🎯 HTML, CSS 
-🎯 JavaScript 
-🎯 React  
+🎯 HTML, CSS  
+🎯 JavaScript  
+🎯 React   
 
 **Contact me:**
 🔭 [Telegram](https://t.me/el_shcherbinina)
