@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-👩‍🦰 My name is Elena and I am Junior Frontend Developer.  
+👩‍🦰 My name is Elena and I am Frontend Developer.  
 🔭 I am studying at Hexlet development school.  
 🗣 I speak German, English and Russian.  
 🌱 I love algorithms, analyze and gardening. Cool combo:)  
@@ -17,7 +17,7 @@
 
 **Skills:**
 
-🎯 Html, css  
+🎯 Html, Css  
 🎯 JavaScript   
 🎯 React  
 
