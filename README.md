@@ -17,8 +17,8 @@
 
 **Skills:**
 
-🎯 HTML, CSS
-🎯 JavaScript   
+🎯 HTML, CSS 
+🎯 JavaScript 
 🎯 React  
 
 **Contact me:**
