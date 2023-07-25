@@ -8,7 +8,7 @@
 **Experience:**
 
 ✨ 2018-2022 Instructional Design Specialist, Goethe-Institut Munich  
-✨ 2010-2018 Team Leader(Online-Courses Development), Goethe-Institut Moscow
+✨ 2010-2018 Team Leader(Edtech-Development), Goethe-Institut Moscow
 
 **Education:**
 
