@@ -23,9 +23,10 @@
 🎯 React, Redux ...   
 
 **Contact me:**
+
 🔭 [Telegram](https://t.me/el_shcherbinina)
 🔭 [Linkedin](https://www.linkedin.com/in/el-shcherbinina/)  
-🔭 My contact email: el.shcherbinina@outlook.com
+🔭 My email: el.shcherbinina@outlook.com
 
 
 I am currently looking for carrer opportunities as Junior Frontend developer.  
