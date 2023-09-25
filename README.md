@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
 👩 My name is Elena and I am Frontend Developer.  
-🔭 I have graduated from the Hexlet online school of Programming.  
 🗣 I speak German, English and Russian.  
 🌱 I love algorithms, analyze, yoga and gardening. Cool combo:)  
 
