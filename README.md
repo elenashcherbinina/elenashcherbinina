@@ -28,5 +28,4 @@
 🔭 My email: el.shcherbinina@outlook.com  
 
 
-I am currently looking for carrer opportunities as Junior Frontend developer.  
-My CV: https://hh.ru/resume/2fd4602aff0be729670039ed1f39764a4d6761
+I am currently looking for carrer opportunities as Junior Frontend developer. [Check my CV.](https://hh.ru/resume/f8fe8fffff0ca3f9f00039ed1f49713154734f)
