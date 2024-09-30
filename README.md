@@ -6,7 +6,7 @@
 
 **Experience:**
 
-✨ 2004 Intern Frontend developer, Ozon Tech Moscow  
+✨ 2024 Junior Frontend developer, Ozon Tech Moscow  
 ✨ 2022-2023 HTML/CSS developer, Publishing House Moscow  
 ✨ 2018-2022 Instructional Design Specialist, Goethe-Institut Munich   
 ✨ 2010-2018 Team Lead (Edtech), Goethe-Institut Moscow  
